@@ -21,4 +21,5 @@ Training infrastructure (Charles, Aaron, Ajay)
 
 ## Resources
 
-- A simmilar project: https://github.com/hamuchiwa/AutoRCCar
+- A similar project: https://github.com/hamuchiwa/AutoRCCar
+- Blog article showing more details about the linked project above: https://zhengludwig.wordpress.com/projects/self-driving-rc-car/comment-page-1/#comments
