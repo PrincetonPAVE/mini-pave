@@ -1,7 +1,8 @@
 # mini-pave
 Codebase for mini-pave project
 
-Sub-projects:
+## Sub-projects:
+
 Car control (Charles, Bora, Aaron, Ajay, Hamza)
 - library to control car speed and steering
 
@@ -17,3 +18,7 @@ Networking (Tigar, Aaron, Ajay, Hamza)
 
 Training infrastructure (Charles, Aaron, Ajay)
 - Stores video and car state
+
+## Resources
+
+- A simmilar project: https://github.com/hamuchiwa/AutoRCCar
